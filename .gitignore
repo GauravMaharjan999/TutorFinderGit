@@ -206,18 +206,6 @@ FakesAssemblies/
 # Visual Studio 6 workspace options file
 *.opt
 
-# LightSwitch generated files
-GeneratedArtifacts/
-_Pvt_Extensions/
-ModelManifest.xml
-buildlog/
-publog/
-artifacts/*
-artifacts*
-artifactspublish/
-Kachuwa.LiveTrainingApp/Locale/*
-Kachuwa.LiveTrainingApp/Logs
-Kachuwa.LiveTrainingApp/DbLogs
-Kachuwa.LiveTrainingApp/wwwroot/lib
+
 
 
