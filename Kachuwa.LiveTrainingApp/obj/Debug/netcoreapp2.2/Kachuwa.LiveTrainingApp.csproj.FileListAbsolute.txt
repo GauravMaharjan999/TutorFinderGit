@@ -1,0 +1,7 @@
+C:\Users\gaurav.maharjan\Downloads\TestLiveTrainingGitChanges\TutorFinderGit\Kachuwa.LiveTrainingApp\obj\Debug\netcoreapp2.2\Kachuwa.LiveTrainingApp.csproj.AssemblyReference.cache
+C:\Users\gaurav.maharjan\Downloads\TestLiveTrainingGitChanges\TutorFinderGit\Kachuwa.LiveTrainingApp\obj\Debug\netcoreapp2.2\Kachuwa.LiveTrainingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaurav.maharjan\Downloads\TestLiveTrainingGitChanges\TutorFinderGit\Kachuwa.LiveTrainingApp\obj\Debug\netcoreapp2.2\Kachuwa.LiveTrainingApp.AssemblyInfoInputs.cache
+C:\Users\gaurav.maharjan\Downloads\TestLiveTrainingGitChanges\TutorFinderGit\Kachuwa.LiveTrainingApp\obj\Debug\netcoreapp2.2\Kachuwa.LiveTrainingApp.AssemblyInfo.cs
+C:\Users\gaurav.maharjan\Downloads\TestLiveTrainingGitChanges\TutorFinderGit\Kachuwa.LiveTrainingApp\obj\Debug\netcoreapp2.2\Kachuwa.LiveTrainingApp.csproj.CoreCompileInputs.cache
+C:\Users\gaurav.maharjan\Downloads\TestLiveTrainingGitChanges\TutorFinderGit\Kachuwa.LiveTrainingApp\obj\Debug\netcoreapp2.2\Kachuwa.LiveTrainingApp.RazorAssemblyInfo.cache
+C:\Users\gaurav.maharjan\Downloads\TestLiveTrainingGitChanges\TutorFinderGit\Kachuwa.LiveTrainingApp\obj\Debug\netcoreapp2.2\Kachuwa.LiveTrainingApp.RazorAssemblyInfo.cs
